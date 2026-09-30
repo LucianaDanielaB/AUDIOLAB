@@ -18,7 +18,7 @@ function ProductList({ products, addToCart }) {
           <div key={category}>
             <h3>{category}</h3>
 
-            <div>
+            <div className="product-list">
               {productsByCategory.map((product) => (
                 <Item
                   key={product.id}
