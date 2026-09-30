@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Auriculares de estudio",
+    "category": "Auriculares",
+    "description": "Auriculares profesionales ideales para mezcla y producción musical.",
+    "price": 85000,
+    "image": "auricularesdeestudio.webp"
+  },
+  {
+    "id": 2,
+    "name": "Auriculares cerrados",
+    "category": "Auriculares",
+    "description": "Auriculares cerrados para grabación y monitoreo de audio.",
+    "price": 72000,
+    "image": "auricularescerrados.webp"
+  },
+  {
+    "id": 3,
+    "name": "Auriculares profesionales",
+    "category": "Auriculares",
+    "description": "Auriculares de alta calidad para producción y escucha profesional.",
+    "price": 110000,
+    "image": "auricularesprofesionales.webp"
+  },
+  {
+    "id": 4,
+    "name": "Micrófono condensador",
+    "category": "Micrófonos",
+    "description": "Micrófono condensador ideal para voces e instrumentos.",
+    "price": 135000,
+    "image": "microfonocondensador.webp"
+  },
+  {
+    "id": 5,
+    "name": "Micrófono dinámico",
+    "category": "Micrófonos",
+    "description": "Micrófono dinámico resistente para voces y grabaciones.",
+    "price": 95000,
+    "image": "microfonodinamico.webp"
+  },
+  {
+    "id": 6,
+    "name": "Micrófono USB",
+    "category": "Micrófonos",
+    "description": "Micrófono USB práctico para grabación y streaming.",
+    "price": 78000,
+    "image": "microfonousb.webp"
+  },
+  {
+    "id": 7,
+    "name": "Interfaz de audio 2 canales",
+    "category": "Interfaces",
+    "description": "Interfaz compacta de dos canales para grabación en home studio.",
+    "price": 145000,
+    "image": "interfazdoscanales.webp"
+  },
+  {
+    "id": 8,
+    "name": "Interfaz de audio 4 canales",
+    "category": "Interfaces",
+    "description": "Interfaz de cuatro canales para proyectos de grabación más completos.",
+    "price": 210000,
+    "image": "interfazcuatrocanales.webp"
+  },
+  {
+    "id": 9,
+    "name": "Monitor de estudio 5 pulgadas",
+    "category": "Monitores",
+    "description": "Monitor de estudio compacto para mezcla y producción musical.",
+    "price": 185000,
+    "image": "monitorcincopulgadas.webp"
+  },
+  {
+    "id": 10,
+    "name": "Monitor de estudio 8 pulgadas",
+    "category": "Monitores",
+    "description": "Monitor de estudio de mayor tamaño para una respuesta más amplia.",
+    "price": 290000,
+    "image": "monitorochopulgadas.webp"
+  },
+  {
+    "id": 11,
+    "name": "Soporte para micrófono",
+    "category": "Accesorios",
+    "description": "Soporte estable y resistente para micrófonos.",
+    "price": 35000,
+    "image": "soportemicrofono.webp"
+  },
+  {
+    "id": 12,
+    "name": "Cable XLR profesional",
+    "category": "Accesorios",
+    "description": "Cable XLR profesional para conexiones de audio confiables.",
+    "price": 18000,
+    "image": "cablexlr.webp"
+  }
+]
